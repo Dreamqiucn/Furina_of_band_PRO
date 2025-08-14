@@ -1,7 +1,7 @@
 {
   "item": {
     "name": "腕上芙宁娜Pro",
-    "description": "一款养成型快应用小游戏，内含抽卡，战斗，故事，任务等等功能，原版腕上芙宁娜的PRO版本,售价3.5元，购买链接：https://afdian.com/item/7f6a402c812311efa1bf5254001e7c00。",
+    "description": "一款养成型快应用小游戏，内含抽卡，战斗，故事，任务等等功能，原版腕上芙宁娜的PRO版本。",
     "preview": [
       "preview1.png",
       "preview2.png",
@@ -17,7 +17,7 @@
       "preview12.png"
     ],
     "icon": "logo.png",
-    "source_url": "",
+    "source_url": "https://github.com/Dreamqiucn/Furina_of_band_PRO",
     "author": [
       {
         "name": "Dreamqiu",
@@ -27,20 +27,20 @@
   },
   "downloads": {
     "n66": {
-      "version": "3.6.3",
-      "file_name": "9_com.Furina.Dreamqiu.mi9.cn.release.3.6.3.rpk"
+      "version": "3.6.4",
+      "file_name": "9_com.Furina.Dreamqiu.mi9.cn.release.3.6.4.rpk"
     },
     "n67": {
       "version": "3.6.3",
       "file_name": "9p_com.Furina.Dreamqiu.cn.release.3.6.3.rpk"
     },
     "o66": {
-      "version": "3.6.3",
-      "file_name": "10_com.Furina.Dreamqiu.cn.release.3.6.3.rpk"
+      "version": "3.6.6",
+      "file_name": "10_com.Furina.Dreamqiu.cn.release.3.6.6.rpk"
     },
     "o66nfc": {
-      "version": "3.6.3",
-      "file_name": "10_com.Furina.Dreamqiu.cn.release.3.6.3.rpk"
+      "version": "3.6.6",
+      "file_name": "10_com.Furina.Dreamqiu.cn.release.3.6.6.rpk"
     },
     "o65": {
       "version": "3.6.3",
