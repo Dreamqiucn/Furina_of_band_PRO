@@ -1,68 +1,138 @@
 {
-    "item": {
-        "id": "com.Furina.Dreamqiu.cn",
-        "restype": "quick_app",
-        "name": "腕上芙宁娜Pro",
-        "description": "一款养成型快应用小游戏，内含抽卡，战斗，故事，任务等等功能，原版腕上芙宁娜的PRO版本。售价3.5元，购买请前往爱发电。",
-        "preview": [
-            "preview1.png",
-            "preview2.png",
-            "preview3.png",
-            "preview4.png",
-            "preview5.png",
-            "preview6.png",
-            "preview7.png",
-            "preview8.png",
-            "preview9.png",
-            "preview10.png",
-            "preview11.png",
-            "preview12.png"
-        ],
-        "icon": "logo.png",
-        "cover": "preview1.png",
-        "author": [
-            {
-                "name": "Dreamqiu",
-                "bindABAccount": true
-            }
-        ]
-    },
-    "links": [
-        {
-            "icon": "",
-            "title": "官方网站",
-            "url": "https://dreamqiu.cn"
-        }
+  "item": {
+    "id": "com.Furina.Dreamqiu.cn",
+    "restype": "quick_app",
+    "name": "腕上芙宁娜Pro",
+    "description": "腕上芙宁娜Pro是一款面向小米手环与手表打造的芙宁娜主题养成与回合制冒险快应用。无需复杂操作，抬腕即可体验日常互动、抽卡养成、剧情阅读与回合制战斗。\n\n在日常养成方面，每天打开应用即可自动签到，提升好感度并领取相遇之缘。点击首页的芙宁娜可以触发问候互动，支持自定义称呼，也可以通过投喂小蛋糕进一步培养好感度。随着好感度不断提升，你可以逐步解锁芙宁娜的专属物品图鉴与个人剧情，同时应用内还完整收录了官方4.2剧情《罪人舞步旋》，随时抬腕翻阅。\n\n祈愿与角色配置方面，应用内置常驻池、武器池与角色池三个卡池，支持单抽、十连以及完整的保底机制。抽取获得的武器可以进行装备与精炼，满精后多余武器还可兑换为无尽模式材料；角色配置中还支持属性强化与命之座查看。\n\n战斗与探索玩法涵盖普通模式、无尽模式、BOSS挑战与野外探险。回合制战斗支持普攻、荒芒双形态切换、元素战技与元素爆发，并结合武器特效与烹饪制作的恢复料理应对不同敌人。无尽模式拥有独立的等级天赋成长线、原石奖励与排行榜。此外，应用还提供每日委托、28种随机突发事件与隐藏彩蛋、兑换码功能，以及涵盖个人信息、命之座、天赋、角色故事、升级材料与相关歌词的完整角色Wiki。\n\n本次4.0版本是一次由内而外的重磅升级。应用全面重做并统一了全新界面语言，针对小米手环Pro系列、小米手环胶囊屏及Redmi Watch的不同屏幕形态与分辨率进行了精细化专属适配，提升了小屏战斗观感、卡片完整阅读体验与底部交互顺手度。与此同时，4.0版本对底层页面结构与核心逻辑进行了深度重构与大幅精简，合并优化了Wiki、卡池切换、抽卡结果与战斗结算流程，彻底修复了多项战斗技能异常、数据存档冲突与返回误退应用的问题，带来更轻快、更稳定、更完整的腕上体验。\n\nQQ交流群 群1：383388239 群2：937539675 群3：1121706406 群4:1134857372",
+    "preview": [
+      "media/OSL (1).png",
+      "media/5-2026-11-22-16-56-22.png",
+      "media/5-2026-11-22-16-56-30.png",
+      "media/5-2026-11-22-16-56-38.png",
+      "media/5-2026-11-22-16-56-45.png",
+      "media/5-2026-11-22-16-56-54.png",
+      "media/5-2026-11-22-16-57-01.png",
+      "media/5-2026-11-22-16-59-27.png",
+      "media/5-2026-11-22-17-00-59.png",
+      "media/10-2026-11-22-17-29-16.png",
+      "media/10-2026-11-22-17-29-37.png",
+      "media/10-2026-11-22-17-29-41.png",
+      "media/10-2026-11-22-17-29-50.png",
+      "media/rw-2026-11-22-17-34-39.png",
+      "media/rw-2026-11-22-17-34-51.png",
+      "media/rw-2026-11-22-17-35-22.png",
+      "media/OSL (2).png"
     ],
-    "downloads": {
-        "xmrw5xring": {
-            "version": "3.7.1",
-            "file_name": "rw_com.Furina.Dreamqiu.cn.release.3.7.1.rpk"
-        },
-        "xmb9p": {
-            "version": "3.7.1",
-            "file_name": "9p_com.Furina.Dreamqiu.cn.release.3.7.1.rpk"
-        },
-        "xmb9": {
-            "version": "3.7.1",
-            "file_name": "9_com.Furina.Dreamqiu.mi9.cn.release.3.7.1.rpk"
-        },
-        "xmb10": {
-            "version": "3.7.1",
-            "file_name": "10_com.Furina.Dreamqiu.cn.release.3.7.1.rpk"
-        },
-        "xmb10nfc": {
-            "version": "3.7.1",
-            "file_name": "10_com.Furina.Dreamqiu.cn.release.3.7.1.rpk"
-        },
-        "xmrw5": {
-            "version": "3.7.1",
-            "file_name": "rw_com.Furina.Dreamqiu.cn.release.3.7.1.rpk"
-        },
-        "xmrw6": {
-            "version": "3.7.1",
-            "file_name": "rw_com.Furina.Dreamqiu.cn.release.3.7.1.rpk"
-        }
+    "icon": "logo.png",
+    "cover": "media/OSL (1).png",
+    "author": [
+      {
+        "name": "Dreamqiu",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官方网站",
+      "url": "https://dreamqiu.cn",
+      "icon": "code"
     },
-    "ext": {}
+    {
+      "title": "腾讯频道",
+      "url": "https://pd.qq.com/s/6r4dbjuk2",
+      "icon": "wechat-logo"
+    }
+  ],
+  "downloads": {
+    "xmrw5xring": {
+      "version": "4.0",
+      "file_name": "downloads/rw_com.Furina.Dreamqiu.cn.release.4.0.rpk",
+      "versionCode": 400
+    },
+    "xmb9p": {
+      "version": "4.0",
+      "file_name": "downloads/9p_com.Furina.Dreamqiu.cn.release.4.0.rpk",
+      "versionCode": 400
+    },
+    "xmb9": {
+      "version": "4.0",
+      "file_name": "downloads/9_com.Furina.Dreamqiu.cn.release.4.0.rpk",
+      "versionCode": 400
+    },
+    "xmb10": {
+      "version": "4.0",
+      "file_name": "downloads/10_com.Furina.Dreamqiu.cn.release.4.0.rpk",
+      "versionCode": 400
+    },
+    "xmb10nfc": {
+      "version": "4.0",
+      "file_name": "downloads/10_com.Furina.Dreamqiu.cn.release.4.0.rpk",
+      "versionCode": 400
+    },
+    "xmrw5": {
+      "version": "4.0",
+      "file_name": "downloads/rw_com.Furina.Dreamqiu.cn.release.4.0.rpk",
+      "versionCode": 400
+    },
+    "xmrw6": {
+      "version": "4.0",
+      "file_name": "downloads/rw_com.Furina.Dreamqiu.cn.release.4.0.rpk",
+      "versionCode": 400
+    },
+    "xmb10p": {
+      "version": "4.0",
+      "file_name": "downloads/9p_com.Furina.Dreamqiu.cn.release.4.0.rpk",
+      "versionCode": 400
+    },
+    "xmb11nfc": {
+      "version": "4.0",
+      "file_name": "downloads/10_com.Furina.Dreamqiu.cn.release.4.0.rpk",
+      "versionCode": 400
+    },
+    "xmb11": {
+      "version": "4.0",
+      "file_name": "downloads/10_com.Furina.Dreamqiu.cn.release.4.0.rpk",
+      "versionCode": 400
+    }
+  },
+  "ext": {
+    "trialDownloads": {
+      "xmb10": {
+        "version": "1.1.1",
+        "file_name": "downloads/trial/com.Furina.Dreamqiu.cn.release.1.1.1.rpk",
+        "versionCode": 111
+      },
+      "xmb10nfc": {
+        "version": "1.1.1",
+        "file_name": "downloads/trial/com.Furina.Dreamqiu.cn.release.1.1.1.rpk",
+        "versionCode": 111
+      },
+      "xmb10p": {
+        "version": "1.1.0",
+        "file_name": "downloads/trial/com.Furina.Dreamqiu.cn.release.1.1.0.rpk",
+        "versionCode": 110
+      },
+      "xmb11": {
+        "version": "1.1.1",
+        "file_name": "downloads/trial/com.Furina.Dreamqiu.cn.release.1.1.1.rpk",
+        "versionCode": 111
+      },
+      "xmb11nfc": {
+        "version": "1.1.1",
+        "file_name": "downloads/trial/com.Furina.Dreamqiu.cn.release.1.1.1.rpk",
+        "versionCode": 111
+      },
+      "xmb9p": {
+        "version": "1.1.0",
+        "file_name": "downloads/trial/com.Furina.Dreamqiu.cn.release.1.1.0.rpk",
+        "versionCode": 110
+      },
+      "xmb9": {
+        "version": "1.1.1",
+        "file_name": "downloads/trial/com.Furina.Dreamqiu.cn.release.1.1.1.rpk",
+        "versionCode": 111
+      }
+    }
+  }
 }
